@@ -2,8 +2,8 @@
 ==========
 - 面向前端的软件开发工程师
 - 北京/天津
-- Website: daoyuly.cn
-- Email: liudaoyu@outlook.com/daoyu@umu.com
+- Website: (daoyuly.cn)[http://daoyuly.cn]
+- Email: liudaoyu@outlook.com / daoyu@umu.com
 
 Work Experience
 -----------
@@ -36,7 +36,7 @@ Work Experience
 	
 Education
 ----------
-- 2004-2008: 计算机科学与技术 学士
+- 2004-2008: 计算机科学与技术 本科及学士
 
     河北农业大学
 
@@ -53,9 +53,9 @@ Key skills
 Programming languages
 ---------------------
 - 熟悉Go
-- 了解C, Python，Dart
 - 精通JavaScript
 - 熟练使用C#
+- 了解C, Python，Dart
 
 Other skills
 -----------
