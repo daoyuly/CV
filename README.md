@@ -85,9 +85,9 @@ Other skills
 
 Certificate of Certification 
 -----------
-- 2012/12 PMP 2012 - 2015 
-- 2011/10 微软.Net开发者认证 MCTS 
-- 2005/07 语四级认证 
+- 2012/12 PMP认证（2012 - 2015）
+- 2011/10 微软.Net开发者MCTS认证
+- 2005/07 英语四级认证 
 
 
 Research
