@@ -10,7 +10,7 @@ Work Experience
 
 - 2015/10 - Now UMU
 
-    Web前端开发工程师/Web团队负责人/Go开发工程师/Nodejs开发工程师
+    UMU公司早期成员/Web前端开发工程师/Web团队负责人/Go开发工程师/Nodejs开发工程师
 
     1. Web Team，主程序员/项目负责人/Web团队负责人，推进业务项目快速高质量迭代，Lead团队及工程技术建设
     2. AI Team，主程序员/项目负责人，落地AIGC工程化建设
