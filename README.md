@@ -1,6 +1,6 @@
 刘道玉
 ==========
-- 面向前端的软件开发工程师
+- 软件开发工程师
 - 北京/天津
 - Website: [daoyuly.cn](http://daoyuly.cn)
 - Email: liudaoyu@outlook.com / daoyu@umu.com
