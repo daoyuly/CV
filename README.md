@@ -13,7 +13,9 @@ Work Experience
     UMU公司早期成员/Web工程师/前端架构师/Web团队负责人/Go工程师/Node.js工程师/Python工程师
 
     1. Web Team，主程序员/项目负责人/架构负责人/Web团队负责人，推进业务项目快速高质量迭代，Lead团队及工程技术建设
-    2. AI Team，主程序员/项目负责人，落地AIGC工程化建设
+    2. AI Team，主程序员, 落地AIGC工程化建设
+    3. Chatbot，优化迭代，实施交付
+    4. uShow，优化迭代，实施交付
 
 - 2014/03 - 2015/10 百度
 
