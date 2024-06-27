@@ -80,7 +80,7 @@ Programming languages
 - 熟悉fastapi等Python Web技术栈
 - 熟悉Transformers
 - 熟练使用C#
-- 了解C, Python，Dart，pytorch, BERT
+- 了解C, Python，Dart
 
 Other skills
 -----------
@@ -90,6 +90,9 @@ Other skills
 - 熟悉微信小程序技术栈的设计和开发
 - 熟悉创业团队/小团队研发模式及工程体系
 - 熟悉技术团队管理方法论
+- 熟悉CNN，RNN相关基本原理和机制
+- 了解pytorch, BERT等框架和模型的使用
+- 了解一些传统NLP算法，仅限于使用
 
 
 Certificate of Certification 
@@ -105,17 +108,17 @@ Research
 
 Tools && OS
 -----------
-
-- Linux
-- Visual Studio
-- Rational ClearCase
-- ActiveX
-- Senior Executive
-- SQL Server
-- Oracle
+以下是曾经使用过，对我有过影响，但是现在已经不再使用的软件
+- 了解Linux
+- 使用过Visual Studio
+- 使用过Rational ClearCase
+- 使用过ActiveX
+- 使用过SQL Server
+- 使用过Oracle
 
 Framework
 -------------
+以下是过往的工作中曾经熟练掌握过的开发框架
 - React
 - Angular.js
 - ASP.NET/ASP
@@ -123,6 +126,7 @@ Framework
 
 Language
 ----------
+以下是过往的工作中曾经熟练掌握过的开发语言
 - JavaScript/Typescript
 - Php
 - UML
@@ -136,7 +140,9 @@ Language
 
 Arch 
 ---------
-
-- OO
-- DDD
+以下是我的软件开发理念的思想来源
+- OO面向对象的开发与设计思想
+- DDD基于领域驱动的开发设计
+- AI深度学习
+- 语言大模型
 
