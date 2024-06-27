@@ -60,6 +60,9 @@ Education
 
 Key skills
 --------
+- 大模型Prompt的使用
+- 基于大模型chatbot的设计和功能设计
+- RAG系统的开发
 - 基于React技术栈的设计架构及实现
 - Web端音视频技术设计架构及实现
 - Web富文本编辑器的架构设计及实现
@@ -73,8 +76,11 @@ Programming languages
 - 精通JavaScript
 - 熟悉Python
 - 熟悉Go
+- 熟悉langchain及相关的大模型应用开发技术栈
+- 熟悉fastapi等Python Web技术栈
+- 熟悉Transformers
 - 熟练使用C#
-- 了解C, Python，Dart
+- 了解C, Python，Dart，pytorch, BERT
 
 Other skills
 -----------
@@ -101,56 +107,36 @@ Tools && OS
 -----------
 
 - Linux
-
 - Visual Studio
-
 - Rational ClearCase
-
 - ActiveX
-
 - Senior Executive
-
 - SQL Server
-
 - Oracle
 
 Framework
 -------------
 - React
-
 - Angular.js
-
 - ASP.NET/ASP
-
 - .NET
 
 Language
 ----------
 - JavaScript/Typescript
-
 - Php
-
 - UML
-
 - CSS2.1/CSS3
-
 - DHTML/Html5
-
 - Transact-SQL
-
 - C/C++
-
 - C#
-
 - Dart
-
 - Java
-
 
 Arch 
 ---------
 
 - OO
-
 - DDD
 
