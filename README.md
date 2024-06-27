@@ -70,8 +70,9 @@ Key skills
 
 Programming languages
 ---------------------
-- 熟悉Go
 - 精通JavaScript
+- 熟悉Python
+- 熟悉Go
 - 熟练使用C#
 - 了解C, Python，Dart
 
